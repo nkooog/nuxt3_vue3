@@ -3,9 +3,5 @@
     <header>
       <TopMenu></TopMenu>
     </header>
-    <main>
-      <slot></slot>
-    </main>
-    <footer>푸터</footer>
   </div>
 </template>
